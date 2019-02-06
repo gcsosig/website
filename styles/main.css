@@ -1,4 +1,19 @@
-body{
+.body-color{
+  background-color: 	#BDEDFF;
+}
+.body-color1{
+  background-color: 	#BDEDFF;
+}
+.body-color2{
+  background-color: 	#BDEDFF;
+}
+.body-color3{
+  background-color: 	#BDEDFF;
+}
+.body-color4{
+  background-color: 	#BDEDFF;
+}
+.body-color5{
   background-color: 	#BDEDFF;
 }
 
@@ -19,12 +34,15 @@ ul{
 #list_nav li a {
   text-decoration:overline underline;
   padding:5px 0;
-  width:200px;
+  width:190px;
   background:#808080;
   color:#eee;
   float:left;
   text-align:center;
-  border-left:0px solid #fff;
+  border-left:2px solid black;
+  border-right:2px solid black;
+  border-top:2px solid black;
+  border-bottom:2px solid black;
 }
 
 #list_nav li a:hover {
